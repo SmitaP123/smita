@@ -13,15 +13,5 @@ public class A
 			System.out.println("dfgiudcbjkf");
 			
 		}
-	public void m2()
-	{
-		System.out.println("dfgiudcbjkf");
-		
-	}
-	public void m3()
-	{
-		System.out.println("dfgiudcbjkf");
-		
-	}
 
 }
